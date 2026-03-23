@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @1ronman101
-- 👀 I'm interested in Exploiting/Hacking
+- 👀 I'm interested in ethical Exploiting/Hacking
 - 🌿 I'm a Python engineer
 - 🤖 Building MCPs (connecting AIs to programs for automation)
 - 🧠 Building AI, ML and Deep Learning models
