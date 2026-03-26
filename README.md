@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm @1ronman101 👋</h1>
 
 <p align="center">
-  <em>Python Engineer · Security Researcher · AI/ML Builder · Automation Enthusiast</em>
+  <em>Python Engineer · Security Researcher · AI/ML Builder · .NET Developer · Automation Enthusiast</em>
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 ## 🧠 About Me
 
 - 🔐 Passionate about **Exploiting & Hacking** — CTFs, reverse engineering, vulnerability research
+- 🖥️ Building **Windows desktop apps** with WinUI 3, .NET 8, and Microsoft Graph API
 - 🤖 Building **MCP servers** to connect AI models to real-world programs and workflows
 - 🧬 Developing **AI, ML & Deep Learning** models from scratch
 - 🐍 Writing **Python automation scripts** to make repetitive tasks disappear
@@ -26,8 +27,15 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Platforms**
+
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WinUI 3](https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **AI / ML**
 
@@ -43,6 +51,7 @@
 
 **Tools & Platforms**
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -62,8 +71,19 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Project
 
+<a href="https://github.com/1ronman101/M365-Manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1ronman101&repo=M365-Manager&theme=tokyonight&hide_border=true" />
+</a>
+
+**M365 Manager** — A WinUI 3 desktop app for managing Microsoft 365 users, licenses, and groups. Built with .NET 8, Microsoft Graph API, and MSAL authentication.
+
+---
+
+## 🔧 What I'm Working On
+
+- 🖥️ **M365 Manager** — Windows desktop app for Microsoft 365 administration
 - 🔧 Building MCP integrations to wire AI assistants into custom tooling
 - 🧪 Training deep learning models for real-world problem solving
 - 🛡️ Ongoing security research and exploit development
@@ -79,6 +99,16 @@
   </a>
   <!-- Add more: LinkedIn, Discord, Twitter/X etc -->
 </p>
+
+---
+
+## 💼 Available for Hire
+
+I'm open to freelance projects and contract work:
+- 🖥️ Windows Desktop Applications (WinUI 3, WPF)
+- ☁️ Microsoft 365 & Azure Integrations
+- 🐍 Python Automation & Scripting
+- 🤖 AI/ML Solutions
 
 ---
 
