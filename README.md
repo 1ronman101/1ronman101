@@ -12,13 +12,13 @@
 
 ## 🧠 About Me
 
-- 🔐 Passionate about **Exploiting & Hacking** — CTFs, reverse engineering, vulnerability research
 - 🖥️ Building **Windows desktop apps** with WinUI 3, .NET 8, and Microsoft Graph API
 - 🤖 Building **MCP servers** to connect AI models to real-world programs and workflows
 - 🧬 Developing **AI, ML & Deep Learning** models from scratch
 - 🐍 Writing **Python automation scripts** to make repetitive tasks disappear
 - 🔰 Learning **C++** — working my way through systems-level programming
 - 💡 Always building something that shouldn't exist yet
+- 🔐 Passionate about **Vulnerability and Windows-internals** — CTFs, reverse engineering, vulnerability research
 
 ---
 
